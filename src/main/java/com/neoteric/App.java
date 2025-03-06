@@ -1,13 +1,25 @@
 package com.neoteric;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+
+
+
+    int age=20;
+
+    public int addtwonumber(){
+        int  a=10;
+        int b=20;
+
+
+        return  a+b;
+
     }
+
+
+
 }
+
+
+
